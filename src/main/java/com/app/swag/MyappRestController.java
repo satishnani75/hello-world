@@ -12,7 +12,7 @@ public class MyappRestController {
 	@GetMapping("/show")
 	public String show() {
 		
-		return "this is swagger show";
+		return "this is swagger show 123";
 		
 	}
 	
